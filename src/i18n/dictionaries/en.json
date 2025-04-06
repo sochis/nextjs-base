@@ -1,0 +1,23 @@
+{
+  "product": {
+    "title": "Nextjs Base Project"
+  },
+  "features": {
+    "home": {
+      "description1": "Get started by editing",
+      "description2": "Save and see your changes instantly.",
+      "button1": "Deploy now",
+      "button2": "Read our docs",
+      "link1": "Learn",
+      "link2": "Example",
+      "link3": "Go to nextjs.org"
+    }
+  },
+  "components": {
+    "theme": {
+      "light": "Light Mode",
+      "dark": "Dark Mode",
+      "device": "Device Theme"
+    }
+  }
+}

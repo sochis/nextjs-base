@@ -1,0 +1,23 @@
+{
+  "product": {
+    "title": "Nextjs Base Project"
+  },
+  "features": {
+    "home": {
+      "description1": "次のファイルを編集することから始めましょう。",
+      "description2": "保存すると、変更が即座に反映されます。",
+      "button1": "今すぐデプロイ",
+      "button2": "ドキュメントを読む",
+      "link1": "学ぶ",
+      "link2": "例",
+      "link3": "nextjs.orgへ行く"
+    }
+  },
+  "components": {
+    "theme": {
+      "light": "ライトモード",
+      "dark": "ダークモード",
+      "device": "デバイスのテーマ"
+    }
+  }
+}

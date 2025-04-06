@@ -53,6 +53,7 @@ export default [
         "warn",
         { argsIgnorePattern: "^_", varsIgnorePattern: "^_" },
       ],
+      "@typescript-eslint/no-empty-object-type": "off",
     },
   },
 ];
